@@ -11,10 +11,10 @@
 | 51319653 |  Leshi Puspitasari     | Wanita         | Hukum        | 3.60 |
 | 56719451 |  Maximilianus Anthoni  | Laki - Laki    | Ilmu Komputer| 3.17 |
 
-1. Sebutkan attribute dari tabel Mahasiswa!
+* Sebutkan attribute dari tabel Mahasiswa!
    
-2. Sebutkan 3 buah tuple yang terdapat pada tabel Mahasiswa!
+* Sebutkan 3 buah tuple yang terdapat pada tabel Mahasiswa!
    
-3. Sebutkan 5 buah field yang terdapat pada tabel Mahasiswa!
+* Sebutkan 5 buah field yang terdapat pada tabel Mahasiswa!
    
 ### 3. Apakah pengertian dari Primary Key dan Candidate Key?
